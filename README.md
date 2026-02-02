@@ -1,4 +1,3 @@
-# rpg
 <!doctype html>
 <html lang="vi">
 
